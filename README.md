@@ -1,0 +1,16 @@
+### Hi there 👋
+
+<!--
+**humblegenius24/humblegenius24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on .database management..
+- 🌱 I’m currently learning .data science with python..
+- 👯 I’m looking to collaborate on ..school database management with python.
+- 🤔 I’m looking for help with building an e-commerce with python...
+- 💬 Ask me about ...
+- 📫 How to reach me: mikeagbolahan24@gmail.com...
+- 😄 Pronouns: ...
+- ⚡ Fun fact:Ever willing to learn ...
+-->
